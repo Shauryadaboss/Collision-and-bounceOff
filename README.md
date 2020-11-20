@@ -1,2 +1,2 @@
-# Collision-and-bounceOff
-created library for collision and bounceOff
+# collisionAlgorithm
+Algorithm to detect collision between two objects
